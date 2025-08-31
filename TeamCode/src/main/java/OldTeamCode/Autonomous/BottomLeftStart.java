@@ -1,4 +1,4 @@
-package OldTeamCode;//import com.acmerobotics.dashboard.FtcDashboard;
+package OldTeamCode.Autonomous;//import com.acmerobotics.dashboard.FtcDashboard;
 //import com.acmerobotics.dashboard.config.Config;
 //import com.acmerobotics.dashboard.telemetry.MultipleTelemetry;
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
